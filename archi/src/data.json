@@ -3,6 +3,21 @@
         "id": "0",
         "image": "https://solomonk.fr/img/monsters/artworks/1483.svg",
         "mob": "Pichon Kloune"
+    },
+    {
+        "id": "1",
+        "image": "./Images/firefox.png",
+        "mob": "Firefoux"
+    },
+    {
+        "id": "2",
+        "image": "./Images/aboub.png",
+        "mob": "Aboub"
+    },
+    {
+        "id": "3",
+        "image": "./Images/sousourisgrise.png",
+        "mob": "Sousouris Grise"
     }
   ]
   

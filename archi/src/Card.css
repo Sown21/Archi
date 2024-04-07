@@ -9,8 +9,18 @@
     height: 350px;
   }
 
+  .card-green {
+    box-shadow: 8px 4px 8px 4px grey;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+    width: 300px;
+    background-color: #bdff7c;
+    border: 1px solid #bdff7c;
+    height: 350px;
+  }
+
 .card-image {
-    width: 100%;
     height: 200px;
     border-radius: 10px;
   }
