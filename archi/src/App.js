@@ -2,6 +2,7 @@ import React from "react";
 import './App.css';
 import Card from './Card'
 import data from './data'
+import Nav from './Nav'
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
         <img src="./archi.png" className="App-logo" alt="archi" />
         <h1 className="animated">Archimonstres</h1>
       </header>
+      <Nav />
       <div className="container">
         {data.map((monster, index) => (
         <Card key={monster.id} image={monster.image} mob={monster.mob} />

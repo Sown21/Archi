@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './Card.css';
 
-const Card = ({ image, mob, key }) => {
+const Card = ({ image, mob }) => {
     const [count, setCount] = useState(0); 
   
     const handleIncrement = () => setCount(count + 1); 
