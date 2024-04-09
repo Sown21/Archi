@@ -2,22 +2,26 @@
     {
         "id": "0",
         "image": "https://solomonk.fr/img/monsters/artworks/1483.svg",
-        "mob": "Pichon Kloune"
+        "mob": "Pichon Kloune",
+        "stage": "22"
     },
     {
         "id": "1",
         "image": "./Images/firefox.png",
-        "mob": "Firefoux"
+        "mob": "Firefoux",
+        "stage": "1"
     },
     {
         "id": "2",
         "image": "./Images/aboub.png",
-        "mob": "Aboub"
+        "mob": "Aboub",
+        "stage": "3"
     },
     {
         "id": "3",
         "image": "./Images/sousourisgrise.png",
-        "mob": "Sousouris Grise"
+        "mob": "Sousouris Grise",
+        "stage": "5"
     }
   ]
   

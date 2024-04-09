@@ -8,7 +8,7 @@ const Card = ({ image, mob }) => {
     const handleDecrement = () => setCount(count - 1);
 
     return (
-        <div className="card" style={{backgroundColor: count >= 1 ? '#bdff7c' : '#282c34'}}>
+        <div className="card fadeInUp" style={{backgroundColor: count >= 1 ? '#bdff7c' : '#282c34'}}>
             <img className="card-image" src={image} alt={mob} />
             <h2 className="card-title" style={{color: count >= 1 ? '#282c34' : '#00d8ff'}}>{mob}</h2>
             <div className="counter">
