@@ -1,7 +1,10 @@
 import React from 'react';
 import './Nav.css'
 
-function Nav() {
+function Nav({ stages, selectedStage, setSelectedStage }) {
+  const handleChange = (event) => {
+    setSelectedStage(event.target.value);
+  }
   return (
     <nav className="navbar">
         <span className="nav-item">
@@ -12,6 +15,14 @@ function Nav() {
         </span>
         <span className="nav-item">
             <a className="nav-link" href="#">Contact</a>
+        </span>
+        <span className="nav-select">
+          <select value={selectedStage} onChange={handleChange}>
+            <option value="all">Toutes les étapes</option>
+            {stages.map(stage => (
+              <option key={stage} value={stage}>Etape {stage}</option>
+            ))}
+          </select>
         </span>
     </nav>
   );

@@ -2,6 +2,7 @@
     display: flex;
     background-color: #e2e2e2;
     padding: 20px;
+    font-weight: 100%;
   }
 
 .nav-item {
@@ -31,4 +32,21 @@ box-shadow: 2px 2px 2px grey;
 
 nav {
     user-select: none;
+}
+
+select {
+  background-color: #00d8ff;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 0 10px;
+  padding: 10px;
+  font-weight: bold;
+  box-shadow: 2px 2px 2px grey;
+  justify-content: flex-end;
+  position: absolute;
+  right: 30px
+  }
+
+select:hover {
+  background-color: #007bff;
 }
