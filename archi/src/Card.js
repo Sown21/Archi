@@ -15,6 +15,11 @@ const Card = ({ image, mob }) => {
                 <button className="btn" onClick={handleDecrement} style={{backgroundColor: count >= 1 ? '#282c34' : '#00d8ff', color: count >= 1 ? '#bdff7c' : 'white'}}>-</button>
                 <span style={{color: count >= 1 ? '#282c34' : 'white'}}>{count}</span>
                 <button className="btn" onClick={handleIncrement} style={{backgroundColor: count >= 1 ? '#282c34' : '#00d8ff', color: count >= 1 ? '#bdff7c' : 'white'}}>+</button>
+                <div className='trade'>               
+                    <button className='trade'>J'échange</button>
+                    <button>Je recherche</button>
+                </div>
+
             </div>
         </div>
     );
