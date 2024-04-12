@@ -7,10 +7,6 @@ import data from './data'
 function App() {
   const [selectedStage, setSelectedStage] = useState("all");
 
-  const handleChange = (event) => {
-    setSelectedStage(event.target.value);
-  };
-
   const filteredData = selectedStage === "all" ? data : data.filter(monster => monster.stage === selectedStage);
   return (
     <div className="App">
@@ -20,12 +16,6 @@ function App() {
       </header>
       <Nav stages={Array.from(new Set(data.map(monster => monster.stage)))} selectedStage={selectedStage} setSelectedStage={setSelectedStage} />
       <div className="container">
-      {/* <select value={selectedStage} onChange={handleChange}>
-          <option value="all">All Stages</option>
-          {Array.from(new Set(data.map(monster => monster.stage))).map(stage => (
-            <option key={stage} value={stage}>Stage {stage}</option>
-          ))}
-        </select> */}
       {filteredData.map((monster) => (
         <Card key={monster.id} image={monster.image} mob={monster.mob} />
       ))} 

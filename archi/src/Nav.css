@@ -13,6 +13,7 @@ margin: 0 10px;
 padding: 10px;
 font-weight: bold;
 box-shadow: 2px 2px 2px grey;
+font-size: 15px;
 }
 
 .nav-link {
@@ -44,9 +45,16 @@ select {
   box-shadow: 2px 2px 2px grey;
   justify-content: flex-end;
   position: absolute;
-  right: 30px
+  right: 30px;
+  font-size: 15px;
   }
 
 select:hover {
   background-color: #007bff;
+}
+
+select option {
+  color: #000; 
+  font-family: Arial, sans-serif; 
+  background-color: #fff; 
 }

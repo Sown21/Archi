@@ -18,9 +18,9 @@ function Nav({ stages, selectedStage, setSelectedStage }) {
         </span>
         <span className="nav-select">
           <select value={selectedStage} onChange={handleChange}>
-            <option value="all">Toutes les étapes</option>
+            <option className="select-menu" value="all">Tous les monstres</option>
             {stages.map(stage => (
-              <option key={stage} value={stage}>Etape {stage}</option>
+              <option className="select-menu" key={stage} value={stage}>Etape {stage}</option>
             ))}
           </select>
         </span>

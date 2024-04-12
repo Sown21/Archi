@@ -1,0 +1,10 @@
+.btn-container {
+    display: flex;
+    justify-content: center;
+}
+
+.btn-login {
+    background-color: #00d8ff;
+    border: none;
+    border-radius: 5px;
+}
