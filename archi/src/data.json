@@ -22,6 +22,12 @@
         "image": "./Images/Abrakanette l'Encapsulé.png",
         "mob": "Abrakanette l'Encapsulé",
         "stage": "31"
+    },
+    {
+        "id": "3",
+        "image": "./Images/Abrakanette l'Encapsulé.png",
+        "mob": "Abrakanette l'Encapsulé",
+        "stage": "31"
     }
   ]
   
