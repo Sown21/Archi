@@ -1,27 +1,33 @@
 [
     {
         "id": "0",
-        "image": "https://solomonk.fr/img/monsters/artworks/1483.svg",
-        "mob": "Pichon Kloune",
-        "stage": "22"
+        "image": "./Images/Aboub.png",
+        "mob": "Aboub",
+        "stage": "7"
     },
     {
         "id": "1",
-        "image": "./Images/firefox.png",
-        "mob": "Firefoux",
-        "stage": "1"
+        "image": "./Images/Aboudbra le Porteur.png",
+        "mob": "Aboudbra le Porteur",
+        "stage": "26"
     },
     {
         "id": "2",
-        "image": "./Images/aboub.png",
-        "mob": "Aboub",
-        "stage": "3"
+        "image": "./Images/Abrakadnuzar.png",
+        "mob": "Abrakadnuzar",
+        "stage": "25"
     },
     {
         "id": "3",
-        "image": "./Images/sousourisgrise.png",
-        "mob": "Sousouris Grise",
-        "stage": "5"
+        "image": "./Images/Abrakanette l'Encapsulé.png",
+        "mob": "Abrakanette l'Encapsulé",
+        "stage": "31"
+    },
+    {
+        "id": "3",
+        "image": "./Images/Abrakanette l'Encapsulé.png",
+        "mob": "Abrakanette l'Encapsulé",
+        "stage": "31"
     }
   ]
   
