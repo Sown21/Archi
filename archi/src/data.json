@@ -3,31 +3,743 @@
         "id": "0",
         "image": "./Images/Aboub.png",
         "mob": "Aboub",
-        "stage": "7"
+        "stage": "7",
+        "category": "Monstre"
     },
     {
         "id": "1",
         "image": "./Images/Aboudbra le Porteur.png",
         "mob": "Aboudbra le Porteur",
-        "stage": "26"
+        "stage": "26",
+        "category": "Archimonstre"
     },
     {
         "id": "2",
         "image": "./Images/Abrakadnuzar.png",
         "mob": "Abrakadnuzar",
-        "stage": "25"
+        "stage": "25",
+        "category": "Archimonstre"
     },
     {
         "id": "3",
         "image": "./Images/Abrakanette l'Encapsulé.png",
         "mob": "Abrakanette l'Encapsulé",
-        "stage": "31"
+        "stage": "31",
+        "category": "Archimonstre"
     },
     {
-        "id": "3",
-        "image": "./Images/Abrakanette l'Encapsulé.png",
-        "mob": "Abrakanette l'Encapsulé",
-        "stage": "31"
+        "id": "4",
+        "image": "./Images/Abrakildas le Vénérable.png",
+        "mob": "Abrakildas le Vénérable",
+        "stage": "27",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "5",
+        "image": "./Images/Abrakine le Sombre.png",
+        "mob": "Abrakine le Sombre",
+        "stage": "32",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "6",
+        "image": "./Images/Abraklette le Fondant.png",
+        "mob": "Abraklette le Fondant",
+        "stage": "31",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "7",
+        "image": "./Images/Abrakleur Clair.png",
+        "mob": "Abrakleur Clair",
+        "stage": "15",
+        "category": "Monstre"
+    },
+    {
+        "id": "8",
+        "image": "./Images/Abrakleur Sombre.png",
+        "mob": "Abrakleur Sombre",
+        "stage": "14",
+        "category": "Monstre"
+    },
+    {
+        "id": "9",
+        "image": "./Images/Abrakne Sombre.png",
+        "mob": "Abrakne Sombre",
+        "stage": "12",
+        "category": "Monstre"
+    },
+    {
+        "id": "10",
+        "image": "./Images/Abrakne.png",
+        "mob": "Abrakne",
+        "stage": "6",
+        "category": "Monstre"
+    },
+    {
+        "id": "11",
+        "image": "./Images/Abraknyde Ancestral.png",
+        "mob": "Abraknyde Ancestral",
+        "stage": "18",
+        "category": "Boss de donjon"
+    },
+    {
+        "id": "12",
+        "image": "./Images/Abraknyde Sombre.png",
+        "mob": "Abraknyde Sombre",
+        "stage": "12",
+        "category": "Monstre"
+    },
+    {
+        "id": "13",
+        "image": "./Images/Abraknyde Vénérable.png",
+        "mob": "Abraknyde Vénérable",
+        "stage": "8",
+        "category": "Monstre"
+    },
+    {
+        "id": "14",
+        "image": "./Images/Abraknyde.png",
+        "mob": "Abraknyde",
+        "stage": "5",
+        "category": "Monstre"
+    },
+    {
+        "id": "15",
+        "image": "./Images/Abrakroc l'édenté.png",
+        "mob": "Abrakroc l'édenté",
+        "stage": "24",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "16",
+        "image": "./Images/Abrinos le Clair.png",
+        "mob": "Abrinos le Clair",
+        "stage": "33",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "17",
+        "image": "./Images/Akaka le Souillé.png",
+        "mob": "Akaka le Souillé",
+        "stage": "28",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "18",
+        "image": "./Images/Akakwa.png",
+        "mob": "Akakwa",
+        "stage": "7",
+        "category": "Monstre"
+    },
+    {
+        "id": "19",
+        "image": "./Images/Alhoui le Répondeur.png",
+        "mob": "Alhoui le Répondeur",
+        "stage": "30",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "20",
+        "image": "./Images/Alhyène.png",
+        "mob": "Alhyène",
+        "stage": "12",
+        "category": "Monstre"
+    },
+    {
+        "id": "21",
+        "image": "./Images/Ameur la Laide.png",
+        "mob": "Ameur la Laide",
+        "stage": "26",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "22",
+        "image": "./Images/Amlub.png",
+        "mob": "Amlub",
+        "stage": "7",
+        "category": "Monstre"
+    },
+    {
+        "id": "23",
+        "image": "./Images/Arabord la Cruche.png",
+        "mob": "Arabord la Cruche",
+        "stage": "26",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "24",
+        "image": "./Images/Arachitik la Souffreteuse.png",
+        "mob": "Arachitik la Souffreteuse",
+        "stage": "20",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "25",
+        "image": "./Images/Araknay la Galopante.png",
+        "mob": "Araknay la Galopante",
+        "stage": "20",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "26",
+        "image": "./Images/Arakne des Égouts.png",
+        "mob": "Arakne des Égouts",
+        "stage": "2",
+        "category": "Monstre"
+    },
+    {
+        "id": "27",
+        "image": "./Images/Arakne Majeure.png",
+        "mob": "Arakne Majeure",
+        "stage": "7",
+        "category": "Monstre"
+    },
+    {
+        "id": "28",
+        "image": "./Images/Arakne Malade.png",
+        "mob": "Arakne Malade",
+        "stage": "1",
+        "category": "Monstre"
+    },
+    {
+        "id": "29",
+        "image": "./Images/Arakne.png",
+        "mob": "Arakne",
+        "stage": "1",
+        "category": "Monstre"
+    },
+    {
+        "id": "30",
+        "image": "./Images/Arakule la Revancharde.png",
+        "mob": "Arakule la Revancharde",
+        "stage": "20",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "31",
+        "image": "./Images/Bakaglace le Congelé.png",
+        "mob": "Bakaglace le Congelé",
+        "stage": "34",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "32",
+        "image": "./Images/Bakazako.png",
+        "mob": "Bakazako",
+        "stage": "15",
+        "category": "Monstre"
+    },
+    {
+        "id": "33",
+        "image": "./Images/Bambouské le Camouflé.png",
+        "mob": "Bambouské le Camouflé",
+        "stage": "23",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "34",
+        "image": "./Images/Bambouto.png",
+        "mob": "Bambouto",
+        "stage": "4",
+        "category": "Monstre"
+    },
+    {
+        "id": "35",
+        "image": "./Images/Bandapar l'Exclu.png",
+        "mob": "Bandapar l'Exclu",
+        "stage": "21",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "36",
+        "image": "./Images/Bandit du clan des Roublards.png",
+        "mob": "Bandit du clan des Roublards",
+        "stage": "2",
+        "category": "Monstre"
+    },
+    {
+        "id": "37",
+        "image": "./Images/Bandit Manchot.png",
+        "mob": "Bandit Manchot",
+        "stage": "2",
+        "category": "Monstre"
+    },
+    {
+        "id": "38",
+        "image": "./Images/Bandson le Tonitruant.png",
+        "mob": "Bandson le Tonitruant",
+        "stage": "21",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "39",
+        "image": "./Images/Barbroussa.png",
+        "mob": "Barbroussa",
+        "stage": "11",
+        "category": "Monstre"
+    },
+    {
+        "id": "40",
+        "image": "./Images/Barchwork le Multicolore.png",
+        "mob": "Barchwork le Multicolore",
+        "stage": "23",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "41",
+        "image": "./Images/Barebourd le Comte.png",
+        "mob": "Barebourd le Comte",
+        "stage": "29",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "42",
+        "image": "./Images/Bebetto l'Intellectuel.png",
+        "mob": "Bebetto l'Intellectuel",
+        "stage": "28",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "43",
+        "image": "./Images/Berger Porkass.png",
+        "mob": "Berger Porkass",
+        "stage": "3",
+        "category": "Monstre"
+    },
+    {
+        "id": "44",
+        "image": "./Images/Betto.png",
+        "mob": "Betto",
+        "stage": "10",
+        "category": "Monstre"
+    },
+    {
+        "id": "45",
+        "image": "./Images/Bi le Partageur.png",
+        "mob": "Bi le Partageur",
+        "stage": "22",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "46",
+        "image": "./Images/Biblop Coco.png",
+        "mob": "Biblop Coco",
+        "stage": "3",
+        "category": "Monstre"
+    },
+    {
+        "id": "47",
+        "image": "./Images/Biblop Griotte.png",
+        "mob": "Biblop Griotte",
+        "stage": "3",
+        "category": "Monstre"
+    },
+    {
+        "id": "48",
+        "image": "./Images/Biblop Indigo.png",
+        "mob": "Biblop Indigo",
+        "stage": "3",
+        "category": "Monstre"
+    },
+    {
+        "id": "49",
+        "image": "./Images/Biblop Reinette.png",
+        "mob": "Biblop Reinette",
+        "stage": "3",
+        "category": "Monstre"
+    },
+    {
+        "id": "50",
+        "image": "./Images/Bigbadaboum l'Élémentaire.png",
+        "mob": "Bigbadaboum l'Élémentaire",
+        "stage": "33",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "51",
+        "image": "./Images/Bilvoezé le Bonimenteur.png",
+        "mob": "Bilvoezé le Bonimenteur",
+        "stage": "22",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "52",
+        "image": "./Images/Bistou le Quêteur.png",
+        "mob": "Bistou le Quêteur",
+        "stage": "22",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "53",
+        "image": "./Images/Bistou le Rieur.png",
+        "mob": "Bistou le Rieur",
+        "stage": "22",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "54",
+        "image": "./Images/Bitouf Aérien.png",
+        "mob": "Bitouf Aérien",
+        "stage": "15",
+        "category": "Monstre"
+    },
+    {
+        "id": "55",
+        "image": "./Images/Bitouf des Plaines.png",
+        "mob": "Bitouf des Plaines",
+        "stage": "11",
+        "category": "Monstre"
+    },
+    {
+        "id": "56",
+        "image": "./Images/Bitouf Sombre.png",
+        "mob": "Bitouf Sombre",
+        "stage": "13",
+        "category": "Monstre"
+    },
+    {
+        "id": "57",
+        "image": "./Images/Bitoven le Musicien.png",
+        "mob": "Bitoven le Musicien",
+        "stage": "31",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "58",
+        "image": "./Images/Bizarbwork.png",
+        "mob": "Bizarbwork",
+        "stage": "13",
+        "category": "Monstre"
+    },
+    {
+        "id": "59",
+        "image": "./Images/Black Tiwabbit.png",
+        "mob": "Black Tiwabbit",
+        "stage": "2",
+        "category": "Monstre"
+    },
+    {
+        "id": "60",
+        "image": "./Images/Black Wabbit.png",
+        "mob": "Black Wabbit",
+        "stage": "5",
+        "category": "Monstre"
+    },
+    {
+        "id": "61",
+        "image": "./Images/Blof l'Apathique.png",
+        "mob": "Blof l'Apathique",
+        "stage": "25",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "62",
+        "image": "./Images/Blop Coco Royal.png",
+        "mob": "Blop Coco Royal",
+        "stage": "17",
+        "category": "Boss de donjon"
+    },
+    {
+        "id": "63",
+        "image": "./Images/Blop Coco.png",
+        "mob": "Blop Coco",
+        "stage": "6",
+        "category": "Monstre"
+    },
+    {
+        "id": "64",
+        "image": "./Images/Blop Griotte Royal.png",
+        "mob": "Blop Griotte Royal",
+        "stage": "17",
+        "category": "Boss de donjon"
+    },
+    {
+        "id": "65",
+        "image": "./Images/Blop Griotte.png",
+        "mob": "Blop Griotte",
+        "stage": "6",
+        "category": "Monstre"
+    },
+    {
+        "id": "66",
+        "image": "./Images/Blop Indigo Royal.png",
+        "mob": "Blop Indigo Royal",
+        "stage": "17",
+        "category": "Boss de donjon"
+    },
+    {
+        "id": "67",
+        "image": "./Images/Blop Indigo.png",
+        "mob": "Blop Indigo",
+        "stage": "6",
+        "category": "Monstre"
+    },
+    {
+        "id": "68",
+        "image": "./Images/Blop Multicolore Royal.png",
+        "mob": "Blop Multicolore Royal",
+        "stage": "18",
+        "category": "Boss de donjon"
+    },
+    {
+        "id": "69",
+        "image": "./Images/Blop Reinette Royal.png",
+        "mob": "Blop Reinette Royal",
+        "stage": "17",
+        "category": "Boss de donjon"
+    },
+    {
+        "id": "70",
+        "image": "./Images/Blop Reinette.png",
+        "mob": "Blop Reinette",
+        "stage": "6",
+        "category": "Monstre"
+    },
+    {
+        "id": "71",
+        "image": "./Images/Bloporte le Veule.png",
+        "mob": "Bloporte le Veule",
+        "stage": "25",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "72",
+        "image": "./Images/Blordur l'Infect.png",
+        "mob": "Blordur l'Infect",
+        "stage": "25",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "73",
+        "image": "./Images/Blorie L'assourdissante.png",
+        "mob": "Blorie L'assourdissante",
+        "stage": "25",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "74",
+        "image": "./Images/Bonpake le Chavireur.png",
+        "mob": "Bonpake le Chavireure",
+        "stage": "30",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "75",
+        "image": "./Images/Boo.png",
+        "mob": "Boo",
+        "stage": "3",
+        "category": "Monstre"
+    },
+    {
+        "id": "76",
+        "image": "./Images/Boomba.png",
+        "mob": "Boomba",
+        "stage": "6",
+        "category": "Monstre"
+    },
+    {
+        "id": "77",
+        "image": "./Images/Boombata le Garde.png",
+        "mob": "Boombata le Garde",
+        "stage": "25",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "78",
+        "image": "./Images/Boostif l'Affamé.png",
+        "mob": "Boostif l'Affamé",
+        "stage": "22",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "79",
+        "image": "./Images/Boudalf le Blanc.png",
+        "mob": "Boudalf le Blanc",
+        "stage": "20",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "80",
+        "image": "./Images/Boudur le Raide.png",
+        "mob": "Boudur le Raide",
+        "stage": "21",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "81",
+        "image": "./Images/Boufdégou le Refoulant.png",
+        "mob": "Boufdégou le Refoulant",
+        "stage": "21",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "82",
+        "image": "./Images/Bouflet le Puéril.png",
+        "mob": "Bouflet le Puéril",
+        "stage": "22",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "83",
+        "image": "./Images/Boufton Blanc.png",
+        "mob": "Boufton Blanc",
+        "stage": "1",
+        "category": "Monstre"
+    },
+    {
+        "id": "84",
+        "image": "./Images/Boufton Noir.png",
+        "mob": "Boufton Noir",
+        "stage": "1",
+        "category": "Monstre"
+    },
+    {
+        "id": "85",
+        "image": "./Images/Bouftou Royal.png",
+        "mob": "Bouftou Royal",
+        "stage": "17",
+        "category": "Boss de donjon"
+    },
+    {
+        "id": "86",
+        "image": "./Images/Bouftou.png",
+        "mob": "Bouftou",
+        "stage": "2",
+        "category": "Monstre"
+    },
+    {
+        "id": "87",
+        "image": "./Images/Boulanger Sombre.png",
+        "mob": "Boulanger Sombre",
+        "stage": "2",
+        "category": "Monstre"
+    },
+    {
+        "id": "88",
+        "image": "./Images/Boulgourvil le Lointain.png",
+        "mob": "Boulgourvil le Lointain",
+        "stage": "20",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "89",
+        "image": "./Images/Bouliver le Géant.png",
+        "mob": "Bouliver le Géant",
+        "stage": "32",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "90",
+        "image": "./Images/Boumbardier.png",
+        "mob": "Boumbardier",
+        "stage": "14",
+        "category": "Monstre"
+    },
+    {
+        "id": "91",
+        "image": "./Images/Bourbassingue.png",
+        "mob": "Bourbassingue",
+        "stage": "13",
+        "category": "Monstre"
+    },
+    {
+        "id": "92",
+        "image": "./Images/Bourdard.png",
+        "mob": "Bourdard",
+        "stage": "12",
+        "category": "Monstre"
+    },
+    {
+        "id": "93",
+        "image": "./Images/Bourde le Maladroit.png",
+        "mob": "Bourde le Maladroit",
+        "stage": "30",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "94",
+        "image": "./Images/Brouste l'Humiliant.png",
+        "mob": "Brouste l'Humiliant",
+        "stage": "31",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "95",
+        "image": "./Images/Brouture.png",
+        "mob": "Brouture",
+        "stage": "13",
+        "category": "Monstre"
+    },
+    {
+        "id": "96",
+        "image": "./Images/Bulbuisson.png",
+        "mob": "Bulbuisson",
+        "stage": "7",
+        "category": "Monstre"
+    },
+    {
+        "id": "97",
+        "image": "./Images/Bulsavon le Gonflé.png",
+        "mob": "Bulsavon le Gonflé",
+        "stage": "25",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "98",
+        "image": "./Images/Bwork Archer.png",
+        "mob": "Bwork Archer",
+        "stage": "5",
+        "category": "Monstre"
+    },
+    {
+        "id": "99",
+        "image": "./Images/Bwork Mage.png",
+        "mob": "Bwork Mage",
+        "stage": "4",
+        "category": "Monstre"
+    },
+    {
+        "id": "100",
+        "image": "./Images/Bwork.png",
+        "mob": "Bwork",
+        "stage": "5",
+        "category": "Monstre"
+    },
+    {
+        "id": "101",
+        "image": "./Images/Bworkasse le Dégoutant.png",
+        "mob": "Bworkasse le Dégoutant",
+        "stage": "24",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "102",
+        "image": "./Images/Bworker.png",
+        "mob": "Bworker",
+        "stage": "19",
+        "category": "Boss de donjon"
+    },
+    {
+        "id": "103",
+        "image": "./Images/Bworkette.png",
+        "mob": "Bworkette",
+        "stage": "17",
+        "category": "Boss de donjon"
+    },
+    {
+        "id": "104",
+        "image": "./Images/Bwormage le Respectueux.png",
+        "mob": "Bwormage le Respectueux",
+        "stage": "23",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "105",
+        "image": "./Images/Caboume l'Artilleur.png",
+        "mob": "Caboume l'Artilleur",
+        "stage": "29",
+        "category": "Archimonstre"
     }
   ]
   
