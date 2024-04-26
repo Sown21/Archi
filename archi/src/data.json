@@ -740,6 +740,363 @@
         "mob": "Caboume l'Artilleur",
         "stage": "29",
         "category": "Archimonstre"
+    },
+    {
+        "id": "106",
+        "image": "./Images/Canondorf.png",
+        "mob": "Canondorf",
+        "stage": "10",
+        "category": "Monstre"
+    },
+    {
+        "id": "107",
+        "image": "./Images/Cavalier Porkass.png",
+        "mob": "Cavalier Porkass",
+        "stage": "7",
+        "category": "Monstre"
+    },
+    {
+        "id": "108",
+        "image": "./Images/Cavordemal le Sorcier.png",
+        "mob": "Cavordemal le Sorcier",
+        "stage": "26",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "109",
+        "image": "./Images/Chafalfer l'Optimiste.png",
+        "mob": "Chafalfer l'Optimiste",
+        "stage": "24",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "110",
+        "image": "./Images/Chafemal le Bagarreur.png",
+        "mob": "Chafemal le Bagarreur",
+        "stage": "25",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "111",
+        "image": "./Images/Chafer Archer.png",
+        "mob": "Chafer Archer",
+        "stage": "8",
+        "category": "Monstre"
+    },
+    {
+        "id": "112",
+        "image": "./Images/Chafer d'Élite.png",
+        "mob": "Chafer d'Élite",
+        "stage": "8",
+        "category": "Monstre"
+    },
+    {
+        "id": "113",
+        "image": "./Images/Chafer Draugr.png",
+        "mob": "Chafer Draugr",
+        "stage": "9",
+        "category": "Monstre"
+    },
+    {
+        "id": "114",
+        "image": "./Images/Chafer Fantassin.png",
+        "mob": "Chafer Fantassin",
+        "stage": "6",
+        "category": "Monstre"
+    },
+    {
+        "id": "115",
+        "image": "./Images/Chafer Invisible.png",
+        "mob": "Chafer Invisible",
+        "stage": "5",
+        "category": "Monstre"
+    },
+    {
+        "id": "116",
+        "image": "./Images/Chafer Lancier.png",
+        "mob": "Chafer Lancier",
+        "stage": "8",
+        "category": "Monstre"
+    },
+    {
+        "id": "117",
+        "image": "./Images/Chafer.png",
+        "mob": "Chafer",
+        "stage": "6",
+        "category": "Monstre"
+    },
+    {
+        "id": "118",
+        "image": "./Images/Chaffoin le Sournois.png",
+        "mob": "Chaffoin le Sournois",
+        "stage": "25",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "119",
+        "image": "./Images/Chafmarcel le Fêtard.png",
+        "mob": "Chafmarcel le Fêtard",
+        "stage": "26",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "120",
+        "image": "./Images/Chafrit le Barbare.png",
+        "mob": "Chafrit le Barbare",
+        "stage": "27",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "121",
+        "image": "./Images/Chalan le Commerçant.png",
+        "mob": "Chalan le Commerçant",
+        "stage": "26",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "122",
+        "image": "./Images/Chamchie le Difficile.png",
+        "mob": "Chamchie le Difficile",
+        "stage": "20",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "123",
+        "image": "./Images/Chamdblé le Cultivé.png",
+        "mob": "Chamdblé le Cultivé",
+        "stage": "24",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "124",
+        "image": "./Images/Chamflay le Ballonné.png",
+        "mob": "Chamflay le Ballonné",
+        "stage": "24",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "125",
+        "image": "./Images/Chamilero le Malchanceux.png",
+        "mob": "Chamilero le Malchanceux",
+        "stage": "33",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "126",
+        "image": "./Images/Chamoute le Duveteux.png",
+        "mob": "Chamoute le Duveteux",
+        "stage": "33",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "127",
+        "image": "./Images/Champ à Gnons.png",
+        "mob": "Champ à Gnons",
+        "stage": "15",
+        "category": "Monstre"
+    },
+    {
+        "id": "128",
+        "image": "./Images/Champ Champ.png",
+        "mob": "Champ Champ",
+        "stage": "2",
+        "category": "Monstre"
+    },
+    {
+        "id": "129",
+        "image": "./Images/Champa Bleu.png",
+        "mob": "Champa Bleu",
+        "stage": "5",
+        "category": "Monstre"
+    },
+    {
+        "id": "130",
+        "image": "./Images/Champa Marron.png",
+        "mob": "Champa Marron",
+        "stage": "5",
+        "category": "Monstre"
+    },
+    {
+        "id": "131",
+        "image": "./Images/Champa Rouge.png",
+        "mob": "Champa Rouge",
+        "stage": "5",
+        "category": "Monstre"
+    },
+    {
+        "id": "132",
+        "image": "./Images/Champa Vert.png",
+        "mob": "Champa Vert",
+        "stage": "3",
+        "category": "Monstre"
+    },
+    {
+        "id": "133",
+        "image": "./Images/Champaknyde.png",
+        "mob": "Champaknyde",
+        "stage": "15",
+        "category": "Monstre"
+    },
+    {
+        "id": "134",
+        "image": "./Images/Champayr le Disjoncté.png",
+        "mob": "Champayr le Disjoncté",
+        "stage": "22",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "135",
+        "image": "./Images/Champayt l'Odorant.png",
+        "mob": "Champayt l'Odorant",
+        "stage": "24",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "136",
+        "image": "./Images/Champbis.png",
+        "mob": "Champbis",
+        "stage": "15",
+        "category": "Monstre"
+    },
+    {
+        "id": "137",
+        "image": "./Images/Champmane.png",
+        "mob": "Champmane",
+        "stage": "15",
+        "category": "Monstre"
+    },
+    {
+        "id": "138",
+        "image": "./Images/Champmé le Méchant.png",
+        "mob": "Champmé le Méchant",
+        "stage": "33",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "139",
+        "image": "./Images/Champodonte.png",
+        "mob": "Champodonte",
+        "stage": "15",
+        "category": "Monstre"
+    },
+    {
+        "id": "140",
+        "image": "./Images/Champolyon le Polyglotte.png",
+        "mob": "Champolyon le Polyglotte",
+        "stage": "33",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "141",
+        "image": "./Images/Champoul l'Illuminé.png",
+        "mob": "Champoul l'Illuminé",
+        "stage": "33",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "142",
+        "image": "./Images/Chef Crocodaille.png",
+        "mob": "Chef Crocodaille",
+        "stage": "11",
+        "category": "Monstre"
+    },
+    {
+        "id": "143",
+        "image": "./Images/Chef de Guerre Bouftou.png",
+        "mob": "Chef de Guerre Bouftou",
+        "stage": "3",
+        "category": "Monstre"
+    },
+    {
+        "id": "144",
+        "image": "./Images/Chêne Mou.png",
+        "mob": "Chêne Mou",
+        "stage": "19",
+        "category": "Boss de donjon"
+    },
+    {
+        "id": "145",
+        "image": "./Images/Chevaucheur Koalak.png",
+        "mob": "Chevaucheur Koalak",
+        "stage": "12",
+        "category": "Monstre"
+    },
+    {
+        "id": "146",
+        "image": "./Images/Chevaustine le Reconstruit.png",
+        "mob": "Chevaustine le Reconstruit",
+        "stage": "22",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "147",
+        "image": "./Images/Chiendanlémin l'Illusionniste.png",
+        "mob": "Chiendanlémin l'Illusionniste",
+        "stage": "29",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "148",
+        "image": "./Images/Chiendent.png",
+        "mob": "Chiendent",
+        "stage": "11",
+        "category": "Monstre"
+    },
+    {
+        "id": "149",
+        "image": "./Images/Chonstip la Passagère.png",
+        "mob": "Chonstip la Passagère",
+        "stage": "22",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "150",
+        "image": "./Images/Cochon de Farle.png",
+        "mob": "Cochon de Farle",
+        "stage": "6",
+        "category": "Monstre"
+    },
+    {
+        "id": "151",
+        "image": "./Images/Cochon de Lait.png",
+        "mob": "Cochon de Lait",
+        "stage": "3",
+        "category": "Monstre"
+    },
+    {
+        "id": "152",
+        "image": "./Images/Codem.png",
+        "mob": "Codem",
+        "stage": "7",
+        "category": "Monstre"
+    },
+    {
+        "id": "153",
+        "image": "./Images/Codenlgaz le Problème.png",
+        "mob": "Codenlgaz le Problème",
+        "stage": "26",
+        "category": "Archimonstre"
+    },
+    {
+        "id": "154",
+        "image": "./Images/Corailleur Magistral.png",
+        "mob": "Corailleur Magistral",
+        "stage": "18",
+        "category": "Boss de donjon"
+    },
+    {
+        "id": "155",
+        "image": "./Images/Corailleur.png",
+        "mob": "Corailleur",
+        "stage": "10",
+        "category": "Monstre"
+    },
+    {
+        "id": "156",
+        "image": "./Images/Corbac.png",
+        "mob": "Corbac",
+        "stage": "4",
+        "category": "Monstre"
     }
   ]
   
