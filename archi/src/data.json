@@ -4,210 +4,270 @@
         "image": "./Images/Aboub.png",
         "mob": "Aboub",
         "stage": "7",
-        "category": "Monstre"
+        "category": "Monstre",
+        "zone": "Plaines de Cania",
+        "subzone": "Village des Dopeuls ; Mines des dopeuls"
     },
     {
         "id": "1",
         "image": "./Images/Aboudbra le Porteur.png",
         "mob": "Aboudbra le Porteur",
         "stage": "26",
-        "category": "Archimonstre"
+        "category": "Archimonstre",
+        "zone": "Plaines de Cania",
+        "subzone": "Village des Dopeuls"
     },
     {
         "id": "2",
         "image": "./Images/Abrakadnuzar.png",
         "mob": "Abrakadnuzar",
         "stage": "25",
-        "category": "Archimonstre"
+        "category": "Archimonstre",
+        "zone": "Forêt des Abraknydes",
+        "subzone": "Orée de la forêt des Abraknydes"
     },
     {
         "id": "3",
         "image": "./Images/Abrakanette l'Encapsulé.png",
         "mob": "Abrakanette l'Encapsulé",
         "stage": "31",
-        "category": "Archimonstre"
+        "category": "Archimonstre",
+        "zone": "Forêt des Abraknydes",
+        "subzone": "Forêt Sombre"
     },
     {
         "id": "4",
         "image": "./Images/Abrakildas le Vénérable.png",
         "mob": "Abrakildas le Vénérable",
         "stage": "27",
-        "category": "Archimonstre"
+        "category": "Archimonstre",
+        "zone": "Forêt des Abraknydes",
+        "subzone": "Forêt Sombre"
     },
     {
         "id": "5",
         "image": "./Images/Abrakine le Sombre.png",
         "mob": "Abrakine le Sombre",
         "stage": "32",
-        "category": "Archimonstre"
+        "category": "Archimonstre",
+        "zone": "Île d'Otomaï",
+        "subzone": "Jungle obscure"
     },
     {
         "id": "6",
         "image": "./Images/Abraklette le Fondant.png",
         "mob": "Abraklette le Fondant",
         "stage": "31",
-        "category": "Archimonstre"
+        "category": "Archimonstre",
+        "zone": "Forêt des Abraknydes",
+        "subzone": "Forêt Sombre"
     },
     {
         "id": "7",
         "image": "./Images/Abrakleur Clair.png",
         "mob": "Abrakleur Clair",
         "stage": "15",
-        "category": "Monstre"
+        "category": "Monstre",
+        "zone": "Île d'Otomaï",
+        "subzone": "Tronc de l'arbre Hakam"
     },
     {
         "id": "8",
         "image": "./Images/Abrakleur Sombre.png",
         "mob": "Abrakleur Sombre",
         "stage": "14",
-        "category": "Monstre"
+        "category": "Monstre",
+        "zone": "Île d'Otomaï",
+        "subzone": "Jungle obscure"
     },
     {
         "id": "9",
         "image": "./Images/Abrakne Sombre.png",
         "mob": "Abrakne Sombre",
         "stage": "12",
-        "category": "Monstre"
+        "category": "Monstre",
+        "zone": "Forêt des Abraknydes",
+        "subzone": "Forêt Sombre"
     },
     {
         "id": "10",
         "image": "./Images/Abrakne.png",
         "mob": "Abrakne",
         "stage": "6",
-        "category": "Monstre"
+        "category": "Monstre",
+        "zone": "Forêt des Abraknydes",
+        "subzone": "Orée de la forêt des Abraknydes"
     },
     {
         "id": "11",
         "image": "./Images/Abraknyde Ancestral.png",
         "mob": "Abraknyde Ancestral",
         "stage": "18",
-        "category": "Boss de donjon"
+        "category": "Boss de donjon",
+        "zone": "Forêt des Abraknydes",
+        "subzone": "Domaine Ancestral"
     },
     {
         "id": "12",
         "image": "./Images/Abraknyde Sombre.png",
         "mob": "Abraknyde Sombre",
         "stage": "12",
-        "category": "Monstre"
+        "category": "Monstre",
+        "zone": "Forêt des Abraknydes",
+        "subzone": "Forêt Sombre"
     },
     {
         "id": "13",
         "image": "./Images/Abraknyde Vénérable.png",
         "mob": "Abraknyde Vénérable",
         "stage": "8",
-        "category": "Monstre"
+        "category": "Monstre",
+        "zone": "Forêt des Abraknydes",
+        "subzone": "Forêt Sombre"
     },
     {
         "id": "14",
         "image": "./Images/Abraknyde.png",
         "mob": "Abraknyde",
         "stage": "5",
-        "category": "Monstre"
+        "category": "Monstre",
+        "zone": "Forêt des Abraknydes",
+        "subzone": "Orée de la forêt des Abraknydes"
     },
     {
         "id": "15",
         "image": "./Images/Abrakroc l'édenté.png",
         "mob": "Abrakroc l'édenté",
         "stage": "24",
-        "category": "Archimonstre"
+        "category": "Archimonstre",
+        "zone": "Forêt des Abraknydes",
+        "subzone": "Orée de la forêt des Abraknydes"
     },
     {
         "id": "16",
         "image": "./Images/Abrinos le Clair.png",
         "mob": "Abrinos le Clair",
         "stage": "33",
-        "category": "Archimonstre"
+        "category": "Archimonstre",
+        "zone": "Île d'Otomaï",
+        "subzone": "Tronc de l'arbre Hakam"
     },
     {
         "id": "17",
         "image": "./Images/Akaka le Souillé.png",
         "mob": "Akaka le Souillé",
         "stage": "28",
-        "category": "Archimonstre"
+        "category": "Archimonstre",
+        "zone": "Île de Pandala",
+        "subzone": "Akwadala"
     },
     {
         "id": "18",
         "image": "./Images/Akakwa.png",
         "mob": "Akakwa",
         "stage": "7",
-        "category": "Monstre"
+        "category": "Monstre",
+        "zone": "Île de Pandala",
+        "subzone": "Akwadala"
     },
     {
         "id": "19",
         "image": "./Images/Alhoui le Répondeur.png",
         "mob": "Alhoui le Répondeur",
         "stage": "30",
-        "category": "Archimonstre"
+        "category": "Archimonstre",
+        "zone": "Plaines de Cania",
+        "subzone": "Dents de Pierre"
     },
     {
         "id": "20",
         "image": "./Images/Alhyène.png",
         "mob": "Alhyène",
         "stage": "12",
-        "category": "Monstre"
+        "category": "Monstre",
+        "zone": "Plaines de Cania",
+        "subzone": "Dents de Pierre"
     },
     {
         "id": "21",
         "image": "./Images/Ameur la Laide.png",
         "mob": "Ameur la Laide",
         "stage": "26",
-        "category": "Archimonstre"
+        "category": "Archimonstre",
+        "zone": "Plaines de Cania",
+        "subzone": "Baie de Cania"
     },
     {
         "id": "22",
         "image": "./Images/Amlub.png",
         "mob": "Amlub",
         "stage": "7",
-        "category": "Monstre"
+        "category": "Monstre",
+        "zone": "Plaines de Cania",
+        "subzone": "Baie de Cania"
     },
     {
         "id": "23",
         "image": "./Images/Arabord la Cruche.png",
         "mob": "Arabord la Cruche",
         "stage": "26",
-        "category": "Archimonstre"
+        "category": "Archimonstre",
+        "zone": "Forêt des Abraknydes",
+        "subzone": "Orée de la forêt des Abraknydes"
     },
     {
         "id": "24",
         "image": "./Images/Arachitik la Souffreteuse.png",
         "mob": "Arachitik la Souffreteuse",
         "stage": "20",
-        "category": "Archimonstre"
+        "category": "Archimonstre",
+        "zone": "Cité d'Astrub",
+        "subzone": "Souterrains d'Astrub"
     },
     {
         "id": "25",
         "image": "./Images/Araknay la Galopante.png",
         "mob": "Araknay la Galopante",
         "stage": "20",
-        "category": "Archimonstre"
+        "category": "Archimonstre",
+        "zone": "Cité d'Astrub",
+        "subzone": "Égouts d'Astrub"
     },
     {
         "id": "26",
         "image": "./Images/Arakne des Égouts.png",
         "mob": "Arakne des Égouts",
         "stage": "2",
-        "category": "Monstre"
+        "category": "Monstre",
+        "zone": "Cité d'Astrub",
+        "subzone": "Égouts d'Astrub"
     },
     {
         "id": "27",
         "image": "./Images/Arakne Majeure.png",
         "mob": "Arakne Majeure",
         "stage": "7",
-        "category": "Monstre"
+        "category": "Monstre",
+        "zone": "Forêt des Abraknydes",
+        "subzone": "Orée de la forêt des Abraknydes"
     },
     {
         "id": "28",
         "image": "./Images/Arakne Malade.png",
         "mob": "Arakne Malade",
         "stage": "1",
-        "category": "Monstre"
+        "category": "Monstre",
+        "zone": "Cité d'Astrub",
+        "subzone": "Souterrains d'Astrub"
     },
     {
         "id": "29",
         "image": "./Images/Arakne.png",
         "mob": "Arakne",
         "stage": "1",
-        "category": "Monstre"
+        "category": "Monstre",
+        "zone": "Amakna",
+        "subzone": "Égouts d'Astrub"
     },
     {
         "id": "30",
