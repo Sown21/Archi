@@ -63,18 +63,24 @@
     margin-top: 5px;
   }
 
-  .trade button {
-    background-color: #00d8ff;
+  .trade-btn {
+    background-color: rgba(0, 216, 255, 0.3);
     border-radius: 15px;
-    color: #282c34;
     font-size: 20px;
-    box-shadow: 2px 2px 2px grey;
   }
 
   .trade button:hover {
     background-color: #007bff;
     border-radius: 15px;
     color: #282c34;
+    font-size: 20px;
+    box-shadow: 2px 2px 2px grey;
+  }
+
+  .selected {
+    background-color: #007bff;
+    border-radius: 15px;
+    color: white;
     font-size: 20px;
     box-shadow: 2px 2px 2px grey;
   }

@@ -4,8 +4,21 @@ import './Card.css';
 const Card = ({ image, mob }) => {
     const [count, setCount] = useState(0); 
   
-    const handleIncrement = () => setCount(count + 1); 
-    const handleDecrement = () => setCount(count - 1);
+    const handleIncrement = () => setCount(prevState => Math.max(prevState + 1, 0));
+    const handleDecrement = () => {
+        if (count > 0) {
+          setCount(count - 1);
+        }
+    };
+
+    const [isTradeSelected, setIsTradeSelected] = useState(false);
+    const handleTradeClick = () => {
+        setIsTradeSelected(!isTradeSelected);
+    };
+    const [isSearchSelected, setIsSearchSelected] = useState(false);
+    const handleSearchClick = () => {
+        setIsSearchSelected(!isSearchSelected);
+    };
 
     return (
         <div className="card fadeInUp" style={{backgroundColor: count >= 1 ? '#bdff7c' : '#282c34'}}>
@@ -16,8 +29,8 @@ const Card = ({ image, mob }) => {
                 <span style={{color: count >= 1 ? '#282c34' : 'white'}}>{count}</span>
                 <button className="btn" onClick={handleIncrement} style={{backgroundColor: count >= 1 ? '#282c34' : '#00d8ff', color: count >= 1 ? '#bdff7c' : 'white'}}>+</button>
                 <div className='trade'>               
-                    <button className='trade'>J'échange</button>
-                    <button>Je recherche</button>
+                    <button onClick={handleTradeClick} className={isTradeSelected ? 'selected' : 'trade-btn'}>J'échange</button>
+                    <button onClick={handleSearchClick} className={isSearchSelected ? 'selected' : 'trade-btn'}>Je recherche</button>
                 </div>
 
             </div>

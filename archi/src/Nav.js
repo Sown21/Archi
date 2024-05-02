@@ -4,7 +4,8 @@ import './Nav.css'
 function Nav({ stages, selectedStage, setSelectedStage }) {
   const handleChange = (event) => {
     setSelectedStage(event.target.value);
-  }
+  };
+  const sortedStages = stages.slice().sort((a, b) => Number(a) - Number(b));
   return (
     <nav className="navbar">
         <span className="nav-item">
@@ -19,7 +20,7 @@ function Nav({ stages, selectedStage, setSelectedStage }) {
         <span className="nav-select">
           <select value={selectedStage} onChange={handleChange}>
             <option className="select-menu" value="all">Tous les monstres</option>
-            {stages.map(stage => (
+            {sortedStages.map(stage => (
               <option className="select-menu" key={stage} value={stage}>Etape {stage}</option>
             ))}
           </select>
